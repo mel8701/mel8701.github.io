@@ -22,7 +22,7 @@ if(isset($_POST['submitted']))
 {
    if($formproc->ProcessForm())
    {
-        $formproc->RedirectToURL("thank-you.php");
+        $formproc->RedirectToURL("https://buymuslims.blogspot.com/");
    }
 }
 ?>
